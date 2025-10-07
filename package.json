@@ -1,5 +1,11 @@
 {
-  "dependencies": {
-    "express": "^5.1.0"
-  }
+    "name": "hello-node",
+    "version": "1.0.0",
+    "main": "hello.js",
+    "scripts": {
+        "start": "node hello.js"
+    },
+    "dependencies": {
+        "express": "^5.1.0"
+    }
 }
