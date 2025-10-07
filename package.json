@@ -1,4 +1,7 @@
 {
+    "scripts": {
+        "start": "node hello.js"
+    },
     "dependencies": {
         "express": "^5.1.0"
     }
